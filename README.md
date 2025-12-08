@@ -1,4 +1,4 @@
-🧠 Examination AI
+Examination AI
 A Simple, Smart, Step-by-Step Learning Assistant for Exam Preparation
 
 Examination AI is a lightweight and intelligent study tool designed to help students understand concepts quickly and effectively. It provides clear definitions, step-by-step solutions, and easy-to-understand explanations for any question, making it perfect for exam preparation.
@@ -42,3 +42,4 @@ Presenting answers in a clean, readable structure
 Helping you prepare with consistent clarity and accuracy
 
 Perfect for school exams, competitive exams, technical subjects, or quick revision.
+
