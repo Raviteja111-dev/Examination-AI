@@ -3,28 +3,28 @@ A Simple, Smart, Step-by-Step Learning Assistant for Exam Preparation
 
 Examination AI is a lightweight and intelligent study tool designed to help students understand concepts quickly and effectively. It provides clear definitions, step-by-step solutions, and easy-to-understand explanations for any question, making it perfect for exam preparation.
 
-🚀 Features
-📘 Step-by-Step Answers
+ Features
+ Step-by-Step Answers
 
 Every question gets a simple key-point summary, followed by a detailed explanation that breaks down complex concepts into easy steps.
 
-📝 Question History
+ Question History
 
 Automatically saves previously asked questions for quick revision.
 
-🌙 Dark Mode Support
+ Dark Mode Support
 
 Switch between light and dark themes for a comfortable reading experience.
 
-📄 PDF Upload (Optional Feature)
+ PDF Upload (Optional Feature)
 
 Upload textbooks or notes and ask questions directly from the content.
 
-⚡ Fast & Lightweight
+ Fast & Lightweight
 
 Optimized for speed with a clean UI similar to ChatGPT, focused on exam learning.
 
-🌐 Web-Based
+ Web-Based
 
 Runs on any modern browser — no installation required.
 
