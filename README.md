@@ -1,4 +1,4 @@
-# 📘 Examination AI
+#  Examination AI
 
 > A Smart, Step-by-Step Learning Assistant for Exam Preparation
 
@@ -6,38 +6,38 @@ Examination AI is an intelligent web-based study tool that helps students unders
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 🔑 Smart Question Answering
+###  Smart Question Answering
 - **AI-Powered Responses**: Leverages Google Gemini 2.5 Pro for accurate, intelligent answers
 - **Step-by-Step Breakdown**: Every answer includes:
-  - 🔑 **Key Idea** - Concise 1-2 line summary
-  - 📋 **Step-by-Step Process** - Detailed numbered steps with examples
-  - 🌟 **Final Summary** - Quick recap and practical tips
+  -  **Key Idea** - Concise 1-2 line summary
+  -  **Step-by-Step Process** - Detailed numbered steps with examples
+  -  **Final Summary** - Quick recap and practical tips
 
-### 🎯 Difficulty Levels
+###  Difficulty Levels
 Choose how detailed your explanation should be:
 - **🟢 Easy** - Simple, beginner-friendly language with analogies
 - **🟡 Moderate** - Balanced, student-focused explanations (default)
 - **🔴 Advanced** - In-depth technical details with real-world applications
 
-### 📚 Question History
+###  Question History
 - Automatically saves all previously asked questions
 - Quick access to past explanations for rapid revision
 - Delete individual history items with one click
 - Browse history in the side panel
 
-### 🌙 Dark Mode Support
+###  Dark Mode Support
 - Toggle between light and dark themes for comfortable reading
 - Smooth transitions and eye-friendly design
 
-### 🔐 User Authentication
+###  User Authentication
 - Secure account creation with email and password
 - Password hashing with Werkzeug security
 - Session management for personalized history
 - Protected routes requiring login
 
-### 💻 Clean, Intuitive UI
+###  Clean, Intuitive UI
 - ChatGPT-like interface for familiarity
 - Responsive design that works on all modern browsers
 - Real-time response streaming with loading indicators
@@ -45,7 +45,7 @@ Choose how detailed your explanation should be:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - **Framework**: Flask 3.1.1 - Lightweight Python web framework
@@ -99,7 +99,7 @@ Examination-AI/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.8+
@@ -195,12 +195,8 @@ Examination-AI/
 - **Search**: Use the search feature to find past questions
 - **Revision**: Quickly review before exams
 
-### Dark Mode
-- Click the 🌙 button in the top bar to toggle dark mode
-- Preference persists during your session
-
 ### Logout
-- Click 🚪 **Logout** to end your session securely
+- Click  **Logout** to end your session securely
 
 ---
 
@@ -260,7 +256,7 @@ All AI responses follow this standardized format:
 
 ---
 
-## 🎓 Use Cases
+##  Use Cases
 
 ✅ **School & College Exams**
 - Science, Math, History, Literature concepts
@@ -284,7 +280,7 @@ All AI responses follow this standardized format:
 
 ---
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Database Connection Error
 - Ensure MySQL server is running
@@ -303,7 +299,7 @@ All AI responses follow this standardized format:
 
 ---
 
-## 🔄 Roadmap
+##  Roadmap
 
 - [ ] PDF upload and question extraction
 - [ ] Multi-language support
@@ -316,7 +312,7 @@ All AI responses follow this standardized format:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -334,7 +330,7 @@ This project is open source and available under the MIT License.
 
 ---
 
-## 💬 Support & Contact
+##  Support & Contact
 
 For questions, issues, or suggestions:
 - **GitHub Issues**: [Open an issue](https://github.com/Raviteja111-dev/Examination-AI/issues)
@@ -343,7 +339,7 @@ For questions, issues, or suggestions:
 
 ---
 
-## ⭐ Show Your Support
+##  Show Your Support
 
 If this project helps you, please give it a star! ⭐
 
